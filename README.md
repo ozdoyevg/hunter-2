@@ -1,2 +1,2 @@
 # hunter-2
-Ducks shooting game
+Ducks shooting game :)
